@@ -17,7 +17,7 @@
         <div className="relative z-10 px-6 text-center pb-50">
             <h1 className="text-lg tracking-widest text-gray-600">HELLO THERE</h1>
             <h2 className="text-5xl font-bold text-gray-900 mt-2">
-            Join us and double <br /> your revenue within one year
+            Transforming Ideas into Digital Excellence 🚀 
             </h2>
             <button
             className={`mt-6 px-6  text-white text-sm font-semibold rounded-md shadow-md cursor-pointer h-10 w-50 transition-all duration-500 relative overflow-hidden ${hover ? 'bg-blue-600' : 'bg-blue-400'}`}
