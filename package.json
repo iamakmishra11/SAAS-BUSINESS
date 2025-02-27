@@ -21,6 +21,15 @@
     "swiper": "^11.2.4",
     "tailwindcss": "^4.0.8"
   },
+  "optionalDependencies": {
+  "@rollup/rollup-linux-x64-gnu": "4.9.5"
+},
+"engines": {
+  "node": "18.x"
+},
+"resolutions": {
+  "rollup": "npm:@rollup/wasm-node"
+},
   "devDependencies": {
     "@eslint/js": "^9.21.0",
     "@types/react": "^19.0.10",
